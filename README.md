@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsinaDitaM&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsinaDitaM&show_icons=true&theme=transparent)
 
 
 <!---
