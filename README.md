@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsinaDitaM&show_icons=true&theme=transparent&title_color=#539BF5&text_color=#768390)
 <br/>
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 <!---
