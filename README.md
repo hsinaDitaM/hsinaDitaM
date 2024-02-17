@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsinaDitaM&show_icons=true&theme=transparent&title_color=#539BF5&text_color=#768390)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsinaditam&hide_progress=true&theme=transparent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsinaditama&repo=csa_notes)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsinaditama&repo=CSA_Notes)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
